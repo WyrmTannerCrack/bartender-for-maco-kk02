@@ -1,4 +1,4 @@
-
+Bartender for macOS secure Addon: snapshot-rollback & disk-analysis is the best Bartender for macOS addon, featuring snapshot-rollback and disk-analysis. Safe, efficient, and
 
 
 
